@@ -1,0 +1,15 @@
+{  
+  "latest": {
+    "label": "",
+    "version": "1.0.0",
+    "optional": true,
+    "use_url": true,
+    "url": ""
+  },
+  "stable": {
+    "label": "",
+    "version": "1.0.0",
+    "use_url": true,
+    "url": "https://drive.google.com/drive/folders/1_T93_dTtIsteYbDxNa7zEtp68xCrmDRQ?usp=sharing"
+  }
+}
