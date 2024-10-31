@@ -2,7 +2,7 @@
   "latest": {
     "label": "(QA)",
     "version": "1.6.8",
-    "optional": true,
+    "optional": false,
     "use_url": false,
     "url": "https://play.google.com/store/apps/details?id=pe.gob.essalud.essapp.qa"
   },
